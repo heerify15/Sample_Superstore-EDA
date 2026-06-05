@@ -154,5 +154,5 @@ Through this project, I practiced:
 
 Heer Shah
 
-Aspiring Data Analyst | Python | Pandas | NumPy | Matplotlib | Seaborn
+Aspiring Data Scientist | Python | Pandas | NumPy | Matplotlib | Seaborn
 
