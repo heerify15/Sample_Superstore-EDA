@@ -1,4 +1,4 @@
-# 🛒 Sample Superstore EDA
+# 🛒 Superstore EDA
 
 ## 📌 Project Overview
 
@@ -112,27 +112,19 @@ The dataset contains transactional sales records from a retail superstore, inclu
 
 ---
 
-## 🚀 How to Run
+## 📁 Project Structure
 
-1. Clone the repository:
+Below is the repository layout:
 
-```bash
-git clone <repository-url>
+```text
+├── Dataset/
+│   ├── superstore..csv
+├── Notebook/
+│   └── superstore.ipynb         
+├── Output/
+│   ├── filename.jpg    # Graphs
+└── README.md                             
 ```
-
-2. Install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-4. Run all cells in the notebook.
 
 ---
 
